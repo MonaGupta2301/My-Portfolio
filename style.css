@@ -454,7 +454,6 @@ body{
  }
  .form1 a:hover
  {
-<<<<<<< HEAD
      box-shadow: 0 0 20px black;
  }
  .img123 a
@@ -487,7 +486,4 @@ body{
    top: 100%;
    left: 95%;
  }
-=======
-    box-shadow: 0 0 40px black;
- }
->>>>>>> 0c2e9eec8115de479540fc9c54e2b51246f1150b
+
